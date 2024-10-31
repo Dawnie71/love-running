@@ -173,6 +173,8 @@ main {
     /* This will not wrap on screens less than 400px. Each div will expand to fill the space on it's own row. */
     flex-basis: 200px;
     flex-grow: 1;
+    /* Creates a grid of meet up times */
+    border: 2px solid #fafafa;
 }
 
 #times h3 {
